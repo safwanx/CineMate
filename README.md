@@ -3,7 +3,7 @@
 #### Description:
 The Movie Recommendation System is a Python-based application designed to provide personalized movie recommendations to users. The system utilizes user data and movie information to suggest movies that align with the user's preferences and interests. This document serves as a guide to understanding the different functionalities and usage of the system.
 
-*** Requirements:**
+* Requirements:*
     To run the Movie Recommendation System, ensure you have the following software installed on your system:
     1. Python 
     2. Pandas library 
